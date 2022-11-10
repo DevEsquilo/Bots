@@ -14,4 +14,4 @@ dracula29000 https://github.com/DevEsquilo/Bots/tree/main/Motivos/Dracula30000
 dracula30000 https://github.com/DevEsquilo/Bots/tree/main/Motivos/Dracula30000
 dracula32157 https://github.com/DevEsquilo/Bots/tree/main/Motivos/Dracula30000
 dracula333333 https://github.com/DevEsquilo/Bots/tree/main/Motivos/Dracula30000
-raclsta Nick Racista
+raclsta Nick Racista https://github.com/DevEsquilo/Bots/tree/main/Motivos/Racismo
