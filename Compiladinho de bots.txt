@@ -1,3 +1,4 @@
+AllefAway	 github.com/DevEsquilo/Bots/tree/main/Motivos/Desrespeitos	
 0a49	Follow bot
 0bsg	Follow bot
 0byj	Follow bot
