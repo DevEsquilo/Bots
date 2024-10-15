@@ -1,0 +1,1 @@
+## Bots aqui dentro são bots que falam para voce comprar viwers
